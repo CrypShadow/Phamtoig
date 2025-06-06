@@ -34,3 +34,10 @@ chmod +x Phamtoig.sh OR chmod 777 Phamtoig.sh
 ./Phamtoig.sh
 ```
 
+⚠️ Disclaimer
+
+Phamtoig is developed for educational and ethical purposes only.
+The author is not responsible for any misuse or illegal activity involving this tool.
+✅ Use it only on usernames and accounts you own or have explicit permission to analyze.
+❌ Scanning usernames without consent may violate the terms of service of certain platforms.
+By using this tool, you agree to comply with all applicable laws and platform policies.
