@@ -31,6 +31,8 @@ To get started, clone the repository by running the following command:
 git clone https://github.com/CrypShadow/Phamtoig.git
 cd Phamtoig
 chmod +x Phamtoig.sh OR chmod 777 Phamtoig.sh
+sudo apt install dos2unix -y
+dos2unix Phamtoig.sh
 ./Phamtoig.sh
 ```
 
