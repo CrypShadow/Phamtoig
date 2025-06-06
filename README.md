@@ -23,3 +23,14 @@ Uses HTTP status codes and pattern recognition for accurate results, not just gu
 🧰 Perfect for OSINT, Research, or Fun
 Great for penetration testers, ethical hackers, digital investigators, or anyone curious about username reuse.
 
+**Clone the repository:**
+
+To get started, clone the repository by running the following command:
+
+```bash
+git clone https://github.com/CrypShadow/Phamtoig.git
+cd Phamtoig
+chmod +x Phamtoig.sh OR chmod 777 Phamtoig.sh
+./Phamtoig.sh
+```
+
